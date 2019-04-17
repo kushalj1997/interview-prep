@@ -1,0 +1,2 @@
+ant apr-util atkmm automake bazel boost-build boost-python cmake coreutils ctags  emacs px4/px4/gcc-arm-none-eabi gdb ghostscript glog go gtk+ hadoop intltool irssi jasper lame leveldb lmdb lua lz4 makedepend ninja linux-noah/noah/noahstrap node open-mpi openexr openssl@1.1 pangomm perl poppler scons shared-mime-info sphinx-doc sqlite utf8proc wget x264 xvid yasm
+
